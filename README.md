@@ -1,4 +1,4 @@
-# 📘 FUTURE_DS_01 – Data Science Internship Portfolio
+# 📘 FUTURE_DS_00 – Data Science Internship Portfolio
 
 Welcome to my GitHub repository for the Future Data Science Internship!
 
